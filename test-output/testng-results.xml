@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-17T12:36:40 IST" name="Register" finished-at="2022-11-17T12:38:10 IST" duration-ms="89611">
+    <groups>
+    </groups>
+    <test started-at="2022-11-17T12:36:40 IST" name="NopCommerce_TestCase" finished-at="2022-11-17T12:38:10 IST" duration-ms="89611">
+      <class name="TestCase.NopCommerce_TestCase">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestCase.NopCommerce_TestCase@6440112d]" started-at="2022-11-17T12:36:40 IST" name="beforeClass" finished-at="2022-11-17T12:36:41 IST" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCase.NopCommerce_TestCase@6440112d]" started-at="2022-11-17T12:36:41 IST" name="setup" finished-at="2022-11-17T12:37:08 IST" duration-ms="26833" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://nopcommerce.com/en/register?returnUrl=%2Fen]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidData()[pri:1, instance:TestCase.NopCommerce_TestCase@6440112d]" started-at="2022-11-17T12:37:08 IST" name="ValidData" finished-at="2022-11-17T12:37:17 IST" duration-ms="9197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCase.NopCommerce_TestCase@6440112d]" started-at="2022-11-17T12:37:17 IST" name="teardown" finished-at="2022-11-17T12:37:17 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCase.NopCommerce_TestCase@6440112d]" started-at="2022-11-17T12:37:17 IST" name="setup" finished-at="2022-11-17T12:37:58 IST" duration-ms="41517" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://nopcommerce.com/en/register?returnUrl=%2Fen]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="InvalidSymbolplusLetter()[pri:2, instance:TestCase.NopCommerce_TestCase@6440112d]" started-at="2022-11-17T12:37:58 IST" name="InvalidSymbolplusLetter" finished-at="2022-11-17T12:38:09 IST" duration-ms="11056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidSymbolplusLetter -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:TestCase.NopCommerce_TestCase@6440112d]" started-at="2022-11-17T12:38:09 IST" name="endReport" finished-at="2022-11-17T12:38:10 IST" duration-ms="576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCase.NopCommerce_TestCase@6440112d]" started-at="2022-11-17T12:38:09 IST" name="teardown" finished-at="2022-11-17T12:38:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCase.NopCommerce_TestCase -->
+    </test> <!-- NopCommerce_TestCase -->
+  </suite> <!-- Register -->
+</testng-results>

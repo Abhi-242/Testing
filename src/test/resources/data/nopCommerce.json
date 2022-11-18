@@ -1,0 +1,91 @@
+{
+	"Valid":{
+					  "fname":"Sourabh",
+					  "lname":"Garde", 
+					  "email":"tyuewtraurtayu@gmail.com",
+					  "cnfrmemail":"tyuewtraurtayu@gmail.com",
+					  "passwrd":"myPass@321",
+					  "cnfrmpasswrd":"myPass@321",
+					  "username":"sougyuhgvgde1000098700000",
+					  "country":"India",
+					  "timeZone":"(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+					  "cmpny": "I am student",
+					  "ExpectedResult" : "Almost done! To complete your nopCommerce registration, we just need to verify your email address. You have just been sent an email to confirm your email address. Open the email, and click the link to confirm your address."
+				},
+	"InvalidSymbolplusLetter":{
+					  "fname":"Sourabh$#$#",
+					  "lname":"Gard^&^e", 
+					  "email":"saur.abh.garde2@gmail.c$@%",
+					  "cnfrmemail":"saur.abh.garde2@gmail.c$@%",
+					  "passwrd":"dyuasaui",
+					  "cnfrmpasswrd":"dyuasaui",
+					  "username":"2361%$97",
+					  "country":"Ind%##@",
+					  "timeZone":"(UTC+05:30) Chennai#%$%%$%$#@%&^%$, Kolkata, Mumbai, New Delhi",
+					  "cmpny": "I am fff student"
+            },
+                
+    "InvalidNumbersplusLetters":{
+                "fname":"sourabh1234",
+                "lname": "garde1234","email": "sourabhgarde444@gmail.com1234",
+                "cnfrmemail": "sourabhgarde444@gmail.com1234",
+                "username": "@#","country": "India123",
+                "timeZone": "(UTC-10:00) Aleutian Islands1234",
+                "passwrd": "648292892723",
+                "cnfrmpasswrd": "648292892723",
+                "cmpny": "I am student1234"
+            },
+                
+    "blank":{
+                "fname":"",
+                "lname": "",
+                "email": "",
+                "cnfrmemail": "",
+                "username": "",
+                "country": "",
+                "timeZone": "",
+                "passwrd": "",
+                "cnfrmpasswrd": "",
+                "cmpny": ""
+            },
+            
+    "tripleSpace":{
+                "fname":"   ",
+                "lname": "   ",
+                "email": "   ",
+                "cnfrmemail": "   ",
+                "username": "   ",
+                "country": "   ",
+                "timeZone": "   ",
+                "passwrd": "   ",
+                "cnfrmpasswrd": "   ",
+                "cmpny": "   "
+            },
+            
+    "lessThanMin":{
+                "fname":"ab",
+                "lname": "m",
+                "email": "sourabhgarde444@gmail.com1234",
+                "cnfrmemail": "sourabhgarde444@gmail.com1234",
+                "username": "@#","country": "I",
+                "timeZone": "s",
+                "passwrd": "#",
+                "cnfrmpasswrd": "#",
+                "cmpny": "I"
+            },
+            
+    "moreThanMax":{
+                "fname":"sourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhsourabhgardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegarde",
+                "lname": "gardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegardegarde",
+                "email": "sourabhgarde444@gmail.com",
+                "cnfrmemail": "sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444sourabhgarde444@gmail.com",
+                "username": "dyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsughdyuchsoufhsdfbodsugh",
+                "country": "IndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndiaIndia",
+                "timeZone": "(UTC-10:00) Aleutian Islands",
+                "passwrd": "#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*",
+                "cnfrmpasswrd": "#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*#*#*(*",
+                "cmpny": "I am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am studentI am student"
+            }
+
+	
+}

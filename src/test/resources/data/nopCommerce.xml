@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Register" verbose="1">
+	<test name="NopCommerce_TestCase">
+		<parameter name="browser" value="chrome"/>
+		<parameter name="url" value="https://nopcommerce.com/en/register?returnUrl=%2Fen"/>
+		<classes>
+		<class name="TestCase.NopCommerce_TestCase"/>
+		</classes>
+	</test>
+</suite>
+
